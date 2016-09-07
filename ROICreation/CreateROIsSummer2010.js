@@ -346,7 +346,7 @@ var builtUp = /* color: d63000 */ee.FeatureCollection(
 				"Property": "BuiltUp",
 				"system:index": "29"
 			})]);
-water = /* color: 98ff00 */ee.FeatureCollection(
+var water = /* color: 98ff00 */ee.FeatureCollection(
 		[ee.Feature(
 			ee.Geometry.Polygon(
 				[[[-122.20818042755127, 40.154539677118215],
@@ -685,7 +685,7 @@ water = /* color: 98ff00 */ee.FeatureCollection(
 				"Property": "Water",
 				"system:index": "29"
 			})]);
-bareSoil = /* color: 0B4A8B */ee.FeatureCollection(
+var bareSoil = /* color: 0B4A8B */ee.FeatureCollection(
 		[ee.Feature(
 			ee.Geometry.Polygon(
 				[[[-119.72179412841797, 35.12383996735809],
@@ -1022,7 +1022,7 @@ bareSoil = /* color: 0B4A8B */ee.FeatureCollection(
 				"Property": "BareSoil",
 				"system:index": "29"
 			})]);
-vegetation = /* color: ffc82d */ee.FeatureCollection(
+var vegetation = /* color: ffc82d */ee.FeatureCollection(
 		[ee.Feature(
 			ee.Geometry.Polygon(
 				[[[-122.1708869934082, 39.99776943210689],
